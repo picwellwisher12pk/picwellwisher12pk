@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Excited Gem](https://github.com/picwellwisher12pk/Excited-Gem)
 
-- 🤔 I’m looking for help with [Excited Gem](https://github.com/picwellwisher12pk/Excited-Gem)
+- 🤔 I’m looking for help with [Excited Gem](https://github.com/picwellwisher12pk/Excited-Gem),[Animated Education](https://github.com/picwellwisher12pk/animated-education)
 
 - 💬 Ask me about **html,css,js ,jquery, react, bootstrap,**
 
