@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amir Hameed</h1>
-<h3 align="center">A passionate frontend developer(I don't know if I should call myself fullstack) and a graphic designer from Pakistan</h3>
+<h3 align="center">A passionate web developer and a graphic designer from Pakistan</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=picwellwisher12pk" alt="picwellwisher12pk" /> </p>
 
 - 🔭 I’m currently working on [Excited Gem](https://github.com/picwellwisher12pk/Excited-Gem)
