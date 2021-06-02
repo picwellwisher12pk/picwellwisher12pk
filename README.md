@@ -5,11 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=picwellwisher12pk" alt="picwellwisher12pk" /></a> </p>
 
-- 🔭 I’m currently working on **Excited Gem**
+<p align="left"> <a href="https://twitter.com/picwellwisher12" target="blank"><img src="https://img.shields.io/twitter/follow/picwellwisher12?logo=twitter&style=for-the-badge" alt="picwellwisher12" /></a> </p>
 
-- 🌱 I’m currently learning **Reactjs, Redux,Testing**
+- 🔭 I’m currently working on [Excited Gem](https://github.com/picwellwisher12pk/Excited-Gem)
 
-- 👯 I’m looking to collaborate on **Excited Gem**
+- 🌱 I’m currently learning **Reactjs, Redux, Testing**
+
+- 👯 I’m looking to collaborate on [Excited Gem](https://github.com/picwellwisher12pk/Excited-Gem)
 
 - 👨‍💻 All of my projects are available at [amirhameed.com](amirhameed.com)
 
@@ -19,6 +21,8 @@
 
 - 📄 Know about my experiences [cv.amirhameed.com](cv.amirhameed.com)
 
+- ⚡ Fun fact **I am a Gamer, and I love to make scripts to automate my tasks**
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
@@ -27,6 +31,7 @@
 <p align="left">
 <a href="https://dev.to/picwellwisher12pk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="picwellwisher12pk" height="30" width="40" /></a>
 <a href="https://twitter.com/picwellwisher12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="picwellwisher12" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/picwellwisher12pk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="picwellwisher12pk" height="30" width="40" /></a>
 <a href="https://fb.com/amir.hameed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/facebook.svg" alt="amir.hameed" height="30" width="40" /></a>
 <a href="https://www.behance.net/amirhameed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/behance.svg" alt="amirhameed" height="30" width="40" /></a>
 <a href="https://medium.com/@mohammadamirhameed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/medium.svg" alt="@mohammadamirhameed" height="30" width="40" /></a>
@@ -40,4 +45,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=picwellwisher12pk&show_icons=true&locale=en" alt="picwellwisher12pk" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=picwellwisher12pk&" alt="picwellwisher12pk" /></p>
-
